@@ -1,5 +1,6 @@
 import string
 
+# This is a function that changes any number to 62 based number system. 2020-6-29
 
 def base62encode(number):
     if number < 0:
